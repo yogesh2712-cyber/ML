@@ -1,1 +1,3 @@
 Pandas
+LinearRegression
+Logistic Regression 
